@@ -12,7 +12,6 @@
     <ClCompile Include="..\Common\ExplorerContextMenuEntry.cpp">
       <Filter>Common</Filter>
     </ClCompile>
-    <ClCompile Include="ProcessMonitor.Java.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="JavaExplorerContextMenuEntry.h">
